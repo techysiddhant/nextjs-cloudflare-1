@@ -12,7 +12,13 @@
 	"pages_build_output_dir": ".vercel/output/static",
 	"observability": {
 		"enabled": true
-	}
+	},
+	"kv_namespaces": [
+		{
+			"binding": "NEXT_CACHE_WORKERS_KV",
+			"id": "74e00061741f466d971119f2308745bf"
+		}
+	]
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
