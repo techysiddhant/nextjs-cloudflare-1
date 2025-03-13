@@ -18,6 +18,14 @@
 			"binding": "NEXT_CACHE_WORKERS_KV",
 			"id": "74e00061741f466d971119f2308745bf"
 		}
+	],
+	"d1_databases": [
+    {
+			"binding": "DB",
+			"database_name": "d1-next",
+			"database_id": "ebf721ca-9aab-4d9d-9c77-86b8f7978dac",
+			"migrations_dir": "drizzle"
+    }
 	]
 	/**
 	 * Smart Placement
