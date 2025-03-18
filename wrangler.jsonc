@@ -15,7 +15,7 @@
 	},
 	"kv_namespaces": [
 		{
-			"binding": "NEXT_CACHE_WORKERS_KV",
+			"binding": "__NEXT_ON_PAGES__KV_SUSPENSE_CACHE",
 			"id": "74e00061741f466d971119f2308745bf"
 		}
 	],
